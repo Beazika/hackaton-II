@@ -1,0 +1,18 @@
+ <header>
+        <div class="header" id="header">
+        <img src="1.png" alt="">
+    </div>
+    <nav class="navegation">
+        <a href="CROOGRAMA.html"><li>Cronograma</li></a>
+        <a href="#"><li>info</li></a>
+        <a href="#"><li>Chaveamento</li></a>
+        <a href="#" id="adm"><li>Cad.ADM</li> </a>
+    </nav>
+    </header>
+    
+    <main>
+        <div class="conteiner">
+         <h1>BEM-VINDO AO RACCOONTHON!</h1>
+         <p></p>
+        </div>
+    </main>
